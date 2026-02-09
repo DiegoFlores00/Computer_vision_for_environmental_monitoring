@@ -1,3 +1,16 @@
+# Collaboration for the development of computer vision models. 
+
+Support in image classification and annotation for the development of computer vision models, geared towards object identification, remote monitoring, species counting, and analysis of marine and coastal ecosystems.
+## Procject types
+|Project type  | Explication | Examples |
+|--------------------|------------|----------|
+|Object detection| Find the location of objects in an image| Beach littler detection: boxes, bottles, cans, plastics, etc.|
+|Single-Label Classiication | Given a limited set of categories, assign a label to an image|Sargassum presence classification|
+|Multiple-Label Classification|Given a limited set of categories, assign an arbitrary number of labels that are relevant to the image| Identification of marine ecosystem components: corals, fish, algae…|
+|Instance Segmentation | At the pixel level, find the location of objects in an image.Individual masks per object| Delineation of sea, sand, sky, and each piece of sargassum|
+|Semantic segmentation| At the pixel level, find the location of objects in an image and create unique references for each object| Classification by type: sargassum, sea, beach|
+|Key point detection | Locate the position of objects and their key points in an image. Commonly used to determine an object's pose.| Analysis of coastlines, organism morphology, or natural structures.
+
 # Colaboración para el desarrollo de modelos de visión computacional
 
 Apoyo en la clasificación y anotación de imágenes para el desarrollo de modelos de visión computacional, orientados a la identificación de objetos, monitoreos remotos, conteo de especies
