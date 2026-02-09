@@ -11,6 +11,12 @@ Support in image classification and annotation for the development of computer v
 |Semantic segmentation| At the pixel level, find the location of objects in an image and create unique references for each object| Classification by type: sargassum, sea, beach|
 |Key point detection | Locate the position of objects and their key points in an image. Commonly used to determine an object's pose.| Analysis of coastlines, organism morphology, or natural structures.
 
+
+| Task | Input image | Output |
+|------|-------------|--------|
+| Semantic segmentation | ![]("C:\Users\flore\Pictures\Screenshots\Captura de pantalla 2026-01-20 124538.png") | ![](images/sargassum_mask.png) |
+| Object detection | ![](images/beach_trash.jpg) | ![](images/beach_trash_boxes.png) |
+
 # Colaboración para el desarrollo de modelos de visión computacional
 
 Apoyo en la clasificación y anotación de imágenes para el desarrollo de modelos de visión computacional, orientados a la identificación de objetos, monitoreos remotos, conteo de especies
