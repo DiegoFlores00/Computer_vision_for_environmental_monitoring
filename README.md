@@ -26,4 +26,4 @@ y análisis de ecosistemas marinos y costeros.
 |Segmentación semántica| A nivel de píxel, encuentra la ubicación de los objetos en una imagen y crea referencias únicas para cada objeto| Clasificación por clases:sargazo, mar, playa|
 |Detección de puntos clave| Localiza la ubicación de objetos y sus puntos clave en una imagen. Se utiliza comúnmente para determinar la pose de un objeto.| Análisis de la línea de costa, morfología de organismos o estructuras naturales|
 
-# Estos enfoques pueden integrarse con datos de teledetección, monitoreos de campo y base de datos estandarizadas.
+###** Estos enfoques pueden integrarse con datos de teledetección, monitoreos de campo y base de datos estandarizadas.
